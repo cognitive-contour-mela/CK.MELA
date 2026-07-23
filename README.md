@@ -69,7 +69,7 @@
 
 По вопросам лицензирования, интеграции CK.MELA и партнерского сотрудничества обращайтесь:
 
-- **Готовые решения:** https://promptbase.com/profile/1bedbed1?via=1bedbed1
+- **Готовые решения и профмодули под заказ:**
 - **Email:** 1bedbed1@gmail.com
 - **Telegram:** @Superficies_aquae
 
