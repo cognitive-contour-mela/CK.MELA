@@ -34,7 +34,7 @@
 * `ck_mod_skupka_v1.1.cfg` — Специализированный модуль аудита
 * `CK-MOD_DOCUMENT_AI_v6.txt` — AI-обработка документов
 * `CK-MOD_DOCUMENT_GENERATOR_v6.html` — Генератор документации
-* `CK-MOD_Strategic Decision Architecture v7` — Модуль стратегического анализа и принятия решений (EDE v7) с прозрачной логикой рассуждений
+* `CK-MOD_Strategic Decision Architecture v7.cfg` — Модуль стратегического анализа и принятия решений (EDE v7) с прозрачной логикой рассуждений
 
 ---
 
